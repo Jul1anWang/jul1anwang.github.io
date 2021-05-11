@@ -1,4 +1,4 @@
-[blog](Jul1anWang.github.io/blog)
+[blog](./blog/)
 
 [note](https://github.com/Jul1anWang/Jul1anWang.github.io/issues)
 
